@@ -1,0 +1,27 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	font-family: Montserrat, sans-serif;
+}
+
+form{
+
+}
+
+input{
+	margin: 10px 0;
+	padding: 10px;
+	border: unset;
+	border-bottom: 2px solid #e3e3e3;
+	outline: none;
+  width: 200px;
+}
+
+button{
+	padding: 10px;
+	background: #e3e3e3;
+	border: unset;
+	cursor: pointer;
+}
